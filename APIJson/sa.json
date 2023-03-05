@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "fa-solid fa-trophy",
+        "title": "THE MOST RELIABLE DONATE WEBSITE",
+        "discription": "We have worked as a charity for 8 years in all over 100 countries in the world. SA is rated as the most reliable donate web for people who loves animals."
+    },
+    {
+        "id": 2,
+        "icon": "fa-solid fa-hand-holding-heart",
+        "title": "SAVE MORE THAN 1000 SPECIES",
+        "discription": "We saved more than 1000 species, include 100 endangered species."
+    },
+    {
+        "id": 3,
+        "icon": "fa-solid fa-people-group",
+        "title": "OVER 1 MILLION MEMBERS",
+        "discription": "We have more than 1 million members in all over the world, always ready to support you."
+    },
+    {
+        "id": 4,
+        "icon": "fa-solid fa-building-columns",
+        "title": "HAVE MORE THAN 200 CAMPUS",
+        "discription": "With over 200 campus in around the world, we believe our influence in the society."
+    }
+]
